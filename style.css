@@ -1,0 +1,22 @@
+body {
+	height: 100vh;
+    display: table;
+    width: 100vw;
+    margin: 0;
+}
+
+.container {
+	display: table-cell;
+    vertical-align: middle;
+}
+
+/*.btn {
+	margin: 0 auto;
+    display: block;
+    padding: 10px 30px;
+    background-color: orange;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    font-size: 14px;
+}*/
